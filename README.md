@@ -11,4 +11,4 @@ Build this JS calculator in 15 minutes!
 To run the application, you need to run the index.html file in your browser.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Apache License 2.0
